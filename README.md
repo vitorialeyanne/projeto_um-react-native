@@ -6,7 +6,7 @@
   </head>
   <body>
       <header>
-          <h1>Primeiro rojeto de React Native</h1>
+          <h1>Primeiro projeto de React Native</h1>
           <p>A aplicação é um test de funcionalidade de acionação de botão e alerta usando React Native.</p>
       </header>
       <footer>
